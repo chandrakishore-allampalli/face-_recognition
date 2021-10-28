@@ -1,0 +1,4 @@
+Table bot
+face recognition
+By using raspberry pi in python with open cv2 modules we run the table bot
+whenever the face identified.It will be immediate response as tell "hello welcome to world"
